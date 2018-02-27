@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987485056639",
+    "firebase_url": "https://pdfviewer-53cf5.firebaseio.com",
+    "project_id": "pdfviewer-53cf5",
+    "storage_bucket": "pdfviewer-53cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987485056639:android:b3f7668cbcd8a1fc",
+        "android_client_info": {
+          "package_name": "com.example.gourav.pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987485056639-cj7560nier7lh3eam9q45cqa1mb31f6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gourav.pdf",
+            "certificate_hash": "17f0195246b2d2ea7e459dba6c1fba6fcb0017c4"
+          }
+        },
+        {
+          "client_id": "987485056639-6no1p4ftcl1h3i2uaq0c3apb8e482490.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB16UWkGwKlbqFVOrefUCWJUV3NSAYfTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987485056639-6no1p4ftcl1h3i2uaq0c3apb8e482490.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
