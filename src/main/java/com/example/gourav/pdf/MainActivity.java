@@ -164,6 +164,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         protected void onPreExecute() {
+            
             super.onPreExecute();
             // Create progress dialog
             mProgressDialog = new ProgressDialog(MainActivity.this);
